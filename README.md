@@ -10,8 +10,8 @@ Just A Racing Game is a single-player racing game made with Unity. This is an as
 
 # Gameplay Images
 
-[![Main Menu](/Screenshot(3).png)
-[![Track Menu](/Screenshot(4).png)
+[![Main Menu](Screenshot(3).png)
+[![Track Menu](Screenshot(4).png)
 [![Maps-Preview.png](https://i.postimg.cc/tJFLtjrw/Maps-Preview.png)](https://postimg.cc/CnLPSWps)
 
 # Assets & Resources
