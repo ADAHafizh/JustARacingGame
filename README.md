@@ -20,4 +20,6 @@ https://youtu.be/tdWcjklxVfY
 # Assets & Resources
 All assets used within the project are free and available for use under CC Licenses. If you are an owner of such asset and would like for this project to be taken down, please contact me via adh10023@nyu.edu
 
+I have tried to maximize optimization as much as possible, however, due to file limitations on Github, please refer to this link for current and future game project files: https://drive.google.com/drive/folders/10dBHYCcyuGFxD-gInzYG49pgNwLob6Mf?usp=sharing
+
 
