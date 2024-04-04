@@ -14,6 +14,9 @@ Just A Racing Game is a single-player racing game made with Unity. This is an as
 [![Screenshot-4.png](https://i.postimg.cc/5yWrtrx3/Screenshot-4.png)](https://postimg.cc/Hc3zZB8c)
 [![Maps-Preview.png](https://i.postimg.cc/tJFLtjrw/Maps-Preview.png)](https://postimg.cc/CnLPSWps)
 
+# Gameplay Demo
+https://youtu.be/tdWcjklxVfY
+
 # Assets & Resources
 All assets used within the project are free and available for use under CC Licenses. If you are an owner of such asset and would like for this project to be taken down, please contact me via adh10023@nyu.edu
 
